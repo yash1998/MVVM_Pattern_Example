@@ -1,3 +1,11 @@
 /build
 /.gradle
 /.idea
+.DS_Store
+.gitignore
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+settings.gradle
