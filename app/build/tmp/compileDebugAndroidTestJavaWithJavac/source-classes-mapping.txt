@@ -1,0 +1,2 @@
+com/example/mvvm_pattern_example/test/BuildConfig.java
+ com.example.mvvm_pattern_example.test.BuildConfig

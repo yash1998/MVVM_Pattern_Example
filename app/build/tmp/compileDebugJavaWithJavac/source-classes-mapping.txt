@@ -1,0 +1,4 @@
+com/example/mvvm_pattern_example/databinding/ActivityMainBinding.java
+ com.example.mvvm_pattern_example.databinding.ActivityMainBinding
+com/example/mvvm_pattern_example/BuildConfig.java
+ com.example.mvvm_pattern_example.BuildConfig
